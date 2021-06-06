@@ -1,1 +1,1 @@
-# Project-CultX-Browser
+# Python Projects
