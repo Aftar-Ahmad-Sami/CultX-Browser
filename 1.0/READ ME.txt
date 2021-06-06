@@ -1,0 +1,13 @@
+CultX Browser
+Version - 1.0
+Creator - Aftar Ahmad Sami
+Email- aftarahmadsami@gmail.com
+
+*************************************************************************************
+
+- IT'S A SIMPLE AND PORTABLE BROWSER.
+- IT CAN BE USED FOR BROWSING AND WATCHING ONLINE VIDEOS.
+- SOME FEATURES LIKE DOWNLOADING IS NOT AVAILABLE.
+- CLICK ON THE TAB SECTION TO OPEN A NEW TAB.
+
+*************************************************************************************
