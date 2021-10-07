@@ -1,5 +1,4 @@
 CultX Browser
-Version - 1.0
 Creator - Aftar Ahmad Sami
 Email- aftarahmadsami@gmail.com
 
