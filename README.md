@@ -1,1 +1,1 @@
-# Go to CultX-Browser Branch
+# Go to "CultX-browser" Branch
